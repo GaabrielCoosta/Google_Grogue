@@ -1,0 +1,10 @@
+endpoints:
+  - name: main
+    path: http://192.168.0.190:8501
+    requests:
+      - name: main
+        path: /
+        method: get
+        tests:
+          - name: status_code_is_200
+            assert: ${{ response.status_code == 200 }}
