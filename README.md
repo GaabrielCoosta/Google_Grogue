@@ -13,6 +13,15 @@ Projeto
 Interface web escolhida para a criação do projeto:
   - https://streamlit.io/
   
-Como instalar o streamlit:
-  - 
-`
+### Como instalar o Streamlit:
+  - Crie um ambiente virtual do Python
+```bash
+python -m venv ambientevirtual
+```
+  - Instale o Streamlit
+```bash
+  pip install streamlit
+```
+
+
+
