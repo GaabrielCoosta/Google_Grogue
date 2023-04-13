@@ -59,8 +59,9 @@ class ScrawlingGrogue:
         st.write("   *Projeto Final do Curso: PYTHON PRO - MENTORAMA*")
         st.image("https://voxnews.com.br/wp-content/uploads/2021/04/logomarca_mentorama-741x394.png", width=700)
         st.markdown(""" 
-            ##### *Desenvolvimento de uma interface web onde o usuário possa informar uma URL
-        Desenvolvimento de um Crawler que, à partir desta primeira URL, seja capaz de identificar todos os links dentro da página e acessar cada um deles
-        Para cada link acessado, deve se repetir o processo, acessando o link e identificando todas as URLs contidas nele para serem acessadas. Este processo deve se repetir até, pelo menos, 5 níveis.
-        Implementação de um algoritmo para ordenar os dez resultados mais relevantes*
+            - *Desenvolvimento de uma interface web onde o usuário possa informar uma URL*
+            - *Desenvolvimento de um Crawler que, à partir desta primeira URL, seja capaz de identificar todos os links dentro da página e acessar cada um deles*
+            - *Para cada link acessado, deve se repetir o processo, acessando o link e identificando todas as URLs contidas nele para serem acessadas* 
+            - *Este processo deve se repetir até, pelo menos, 5 níveis*
+            - *Implementação de um algoritmo para ordenar os dez resultados mais relevantes*
         """)
