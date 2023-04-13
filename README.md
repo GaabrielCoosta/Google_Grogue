@@ -1,6 +1,12 @@
 # Google Grogue 
 Aplicativo Web de busca, à partir de uma entrada URL do usuário!
 
+<p align="center">
+  
+  ![giphy (1)](https://user-images.githubusercontent.com/108695592/231829298-0d0d2dbd-7300-44b7-bc4f-c49a20eafd38.gif)">
+
+</p>
+
 ### Projeto
 
   - Desenvolvimento de uma interface web onde o usuário possa informar uma URL
