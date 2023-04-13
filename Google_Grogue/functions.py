@@ -65,4 +65,4 @@ class ScrawlingGrogue:
             - *Implementação de um algoritmo para ordenar os dez resultados mais relevantes*
         """)
         st.markdown('Acomoanhe a contrução do projeto, do início, em meu GitHub')
-        st.link(https://github.com/GaabrielCoosta/Google_Grogue)
+        st.write('https://github.com/GaabrielCoosta/Google_Grogue')
