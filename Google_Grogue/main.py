@@ -17,6 +17,7 @@ def main_page():
     st.write("""
     Developed by Gabriel Andrade
     """)
+    st.write('https://github.com/GaabrielCoosta/Google_Grogue')
 
 def desc_project():
     ScrawlingGrogue.descproject()
