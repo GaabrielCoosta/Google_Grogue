@@ -64,5 +64,5 @@ class ScrawlingGrogue:
             - *Este processo deve se repetir até, pelo menos, 5 níveis*
             - *Implementação de um algoritmo para ordenar os dez resultados mais relevantes*
         """)
-        st.markdown('Acomoanhe a contrução do projeto, do início, em meu GitHub')
+        st.markdown('Acompanhe a contrução do projeto, do início, em meu GitHub')
         st.write('https://github.com/GaabrielCoosta/Google_Grogue')
