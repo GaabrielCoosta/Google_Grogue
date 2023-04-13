@@ -1,7 +1,7 @@
-# Google Grogue
+# Google Grogue 
 Aplicativo Web de busca, à partir de uma entrada URL do usuário!
 
-Projeto
+### Projeto
 
   - Desenvolvimento de uma interface web onde o usuário possa informar uma URL
   - Desenvolvimento de um Crawler que, à partir desta primeira URL, seja capaz de identificar todos os links dentro da página e acessar cada um deles
@@ -23,5 +23,14 @@ python -m venv ambientevirtual
   pip install streamlit
 ```
 
+### Para rodar aplicativo é necessário clonar o diretório Google_Grogue
+  - Instale todas as dependencias à partir do arquivo 'requirements.txt''
+```bash
+  pip install -r requirements.txt
+```
+
+### Para testar o App, aqui disponilizo o link:
+
+https://gaabrielcoosta-google-grogue-google-groguemain-xnug52.streamlit.app/
 
 
