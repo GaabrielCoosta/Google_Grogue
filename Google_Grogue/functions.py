@@ -56,7 +56,6 @@ class ScrawlingGrogue:
 
     def descproject():
         st.markdown('# Google Grogue ')
-        st.write("   *Projeto Final do Curso: PYTHON PRO - MENTORAMA*")
         st.image("https://voxnews.com.br/wp-content/uploads/2021/04/logomarca_mentorama-741x394.png", width=700)
         st.markdown(""" 
             - *Desenvolvimento de uma interface web onde o usuário possa informar uma URL*
@@ -65,3 +64,5 @@ class ScrawlingGrogue:
             - *Este processo deve se repetir até, pelo menos, 5 níveis*
             - *Implementação de um algoritmo para ordenar os dez resultados mais relevantes*
         """)
+        st.markdown('Acomoanhe a contrução do projeto, do início, em meu GitHub')
+        st.link(https://github.com/GaabrielCoosta/Google_Grogue)
