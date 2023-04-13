@@ -1,4 +1,8 @@
 # Google Grogue 
+
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/GaabrielCoosta/Changelle_HandTalk/blob/main/LICENSE)
+![NPM](https://img.shields.io/static/v1?label=Python&message=3.10&color=<COLOR>&logo=python)
+
 Aplicativo Web de busca, à partir de uma entrada URL do usuário!
 
 <p align="center">
